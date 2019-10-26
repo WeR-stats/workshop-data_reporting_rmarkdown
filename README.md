@@ -1,1 +1,1 @@
-# workshop-data_reporting_rmarkdown
+# Data Reporting with *RMarkdown*
