@@ -1,1 +1,1 @@
-# Data Reporting with *RMarkdown*
+## Data Reporting and Dashboards with *RMarkdown*
